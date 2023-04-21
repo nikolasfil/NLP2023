@@ -1,0 +1,165 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2022.11.6)  4 MAR 2023 20:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count181
+\U@D=\dimen139
+\l@babelnohyphens=\language7
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count182
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@british = using hyphenrules for english
+(babel)             (\language0) on input line 82.
+Package babel Info: \l@UKenglish = using hyphenrules for english
+(babel)             (\language0) on input line 83.
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for english
+(babel)             (\language0) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for english
+(babel)             (\language0) on input line 108.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2020/11/10 v1.10 Greek support for the babel system
+\bbl@monogreek=\count183
+\bbl@polygreek=\count184
+\bbl@ancientgreek=\count185
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/tuenc-greek.def
+File: tuenc-greek.def 2020/10/13 2.0 Greek LICRs for XeTeX and LuaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2020-01-29 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count186
+\l__color_backend_stack_int=\count187
+\g__graphics_track_int=\count188
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count189
+\g__pdf_backend_annotation_int=\count190
+\g__pdf_backend_link_int=\count191
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+6.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Missing character: There is no π in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ι in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no τ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ι in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no κ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ή in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ω in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ί in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no η in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ρ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no τ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no η in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ρ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ι in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no κ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ή in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no Ά in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no κ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no η in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no σ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no η in font [lmroman17-regular]:mapping=tex-text;!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+ [1
+
+] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1938 strings out of 479180
+ 32912 string characters out of 5873661
+ 324946 words of memory out of 5000000
+ 21557 multiletter control sequences out of 15000+600000
+ 412096 words of font info for 41 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 53i,4n,62p,201b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.pdf (1 page).
